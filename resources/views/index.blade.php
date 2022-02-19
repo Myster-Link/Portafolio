@@ -80,6 +80,7 @@
         <img class="img_habilidades" title="PHP 8" src="{{ asset('images/php.svg') }}" alt="Logo de Php 8">
         <img class="img_habilidades" title="LARAVEL 8" src="{{ asset('images/laravel.svg') }}" alt="Logo de Laravel 8">
         <img class="img_habilidades" title="MYSQL" src="{{ asset('images/mysql.svg') }}" alt="Logo de MySql">
+        <img class="img_habilidades" title="GIT" src="{{ asset('images/git.svg') }}" alt="Logo de Git">
         <img class="img_habilidades" title="LARAGON" src="{{ asset('images/laragon.svg') }}" alt="Logo de Laragon">
     </div>
 
@@ -87,11 +88,11 @@
         <h2>MAS INFORMACIÓN</h2>
         <div class="div_sabermas">
             <a href="https://www.facebook.com/profile.php?id=100013702146324"><img
-                    src="{{ asset('images/facebook.svg') }}" alt="" title=""></a>
-            <a href=""><img src="{{ asset('images/instagram.svg') }}" alt="" title=""></a>
+                    src="{{ asset('images/facebook.svg') }}" alt="Link Facebook" title="Link Facebook"></a>
+            <a href=""><img src="{{ asset('images/instagram.svg') }}" alt="Link Instagram" title="Link Instagram"></a>
             <a href="https://www.linkedin.com/in/christopher-felipe-fernández-barboza"><img
-                    src="{{ asset('images/linkedin.svg') }}" alt="" title=""></a>
-            <a href=""><img src="{{ asset('images/github.svg') }}" alt="" title=""></a>
+                    src="{{ asset('images/linkedin.svg') }}" alt="Link Linkedin" title="Link Linkedin"></a>
+            <a href="https://github.com/Myster-Link"><img src="{{ asset('images/github.svg') }}" alt="Link GitHub" title="Link GitHub"></a>
         </div>
     </div>
 

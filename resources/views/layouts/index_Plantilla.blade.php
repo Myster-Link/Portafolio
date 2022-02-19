@@ -71,7 +71,7 @@
                     <img class="a_footer" src="{{ asset('images/footer/linkedin-footer.svg') }}" alt="linkedin-footer">
                 </a>
                 <!-- Github -->
-                <a href="#">
+                <a href="https://github.com/Myster-Link">
                     <img class="a_footer" src="{{ asset('images/footer/github-footer.svg') }}" alt="github-footer">
                 </a>
             </section>
