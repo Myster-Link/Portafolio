@@ -91,9 +91,6 @@
     {{-- Scripts de Bootstrap --}}
     <script src="{{ asset('js/bootstrap-js/bootstrap.min.js') }}"></script>
 
-    {{-- Scripts General --}}
-    <script src="{{ asset('js/main.js') }}"></script>
-
 </body>
 
 </html>
