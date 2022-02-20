@@ -29,7 +29,7 @@
                     <p class="card-text">
                         Un sistema con facturacion, inventario y registro de clientes auto gestionable.
                     </p>
-                    <a href="sistema-inventario.mysterlink.com" class="btn btn-primary">Vamos a ver</a>
+                    <a href="http://sistema-inventario.mysterlink.com" class="btn btn-primary">Vamos a ver</a>
                 </div>
             </div>
 
@@ -40,7 +40,7 @@
                     <p class="card-text">
                         Un sistema con facturacion, inventario y registro de clientes auto gestionable.
                     </p>
-                    <a href="sistema-inventario.mysterlink.com" class="btn btn-primary">Vamos a ver</a>
+                    <a href="http://sistema-inventario.mysterlink.com" class="btn btn-primary">Vamos a ver</a>
                 </div>
             </div>
 
@@ -51,7 +51,7 @@
                     <p class="card-text">
                         Un sistema con facturacion, inventario y registro de clientes auto gestionable.
                     </p>
-                    <a href="sistema-inventario.mysterlink.com" class="btn btn-primary">Vamos a ver</a>
+                    <a href="http://sistema-inventario.mysterlink.com" class="btn btn-primary">Vamos a ver</a>
                 </div>
             </div>
 
@@ -62,7 +62,7 @@
                     <p class="card-text">
                         Un sistema con facturacion, inventario y registro de clientes auto gestionable.
                     </p>
-                    <a href="sistema-inventario.mysterlink.com" class="btn btn-primary">Vamos a ver</a>
+                    <a href="http://sistema-inventario.mysterlink.com" class="btn btn-primary">Vamos a ver</a>
                 </div>
             </div>
 
