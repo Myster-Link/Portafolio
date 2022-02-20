@@ -23,7 +23,7 @@
         <div class="div_portafolio">
 
             <div class="card div_card_portafolio" style="width: 18rem;">
-                <img src="{{ asset('images/sistema_facturacion.png') }}" class="card-img-top" alt="...">
+                <img src="{{ asset('images/Img_sistema_inventario.png') }}" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Sistema de Inventario</h5>
                     <p class="card-text">
@@ -34,7 +34,7 @@
             </div>
 
             <div class="card div_card_portafolio" style="width: 18rem;">
-                <img src="{{ asset('images/sistema_facturacion.png') }}" class="card-img-top" alt="...">
+                <img src="{{ asset('images/Img_sistema_inventario.png') }}" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Sistema de Inventario</h5>
                     <p class="card-text">
@@ -45,7 +45,7 @@
             </div>
 
             <div class="card div_card_portafolio" style="width: 18rem;">
-                <img src="{{ asset('images/sistema_facturacion.png') }}" class="card-img-top" alt="...">
+                <img src="{{ asset('images/Img_sistema_inventario.png') }}" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Sistema de Inventario</h5>
                     <p class="card-text">
@@ -56,7 +56,7 @@
             </div>
 
             <div class="card div_card_portafolio" style="width: 18rem;">
-                <img src="{{ asset('images/sistema_facturacion.png') }}" class="card-img-top" alt="...">
+                <img src="{{ asset('images/Img_sistema_inventario.png') }}" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Sistema de Inventario</h5>
                     <p class="card-text">
